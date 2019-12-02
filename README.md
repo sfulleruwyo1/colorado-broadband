@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Lesson 02: Open Source GIS and Data Management Tools – Introduction to QGIS and PostGIS](#lesson-02-open-source-gis-and-data-management-tools--introduction-to-qgis-and-postgis)
+- [Lab 10: Final Project]
     - [Table of Contents](#table-of-contents)
     - [Overview](#overview)
     - [Data files](#data-files)
