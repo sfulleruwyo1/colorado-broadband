@@ -2,6 +2,10 @@
 
 ## Table of Contents
 
+    - [Table of Contents](#table-of-contents)
+    - [Overview](#overview)
+    - [Data files](#data-files)
+
 ## Overview
 Interactive Colorado Broadband Provider map utilizing MapBox GL API.  Interactive Popup and dynamic layer symbology based on zoom level.
 
