@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Lab 10: Final Project]
+- [Lab 10: Final Project](#lab-10-final-project)
     - [Table of Contents](#table-of-contents)
     - [Overview](#overview)
     - [Data files](#data-files)
